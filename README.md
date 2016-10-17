@@ -22,4 +22,6 @@ node node_modules/.bin/typings install
 ```
 
 # run
+```shell
 npm start
+```
