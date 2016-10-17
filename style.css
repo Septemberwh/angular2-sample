@@ -1,0 +1,37 @@
+*{margin:0;padding:0;font-size:22px}
+
+
+h1{
+    color: red;
+}
+h2{
+    color: green;
+}
+body{
+    width: 700px;
+     margin: 0px auto;
+}
+#top{
+    width:700px;
+    background-color: yellow;
+    text-align: center;
+  
+}
+#left{
+    background-color: blue;
+    float: left;
+    width: 100px;
+    margin-right: 10px;
+    
+}
+#right{
+    width:590px;
+    float:left;
+    background-color: pink;
+}
+#footer{
+    clear:both;
+    width: 100%;
+    background-color: orange;
+    text-align: center;
+}
